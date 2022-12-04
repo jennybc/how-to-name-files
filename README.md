@@ -5,7 +5,7 @@ Low-tech common sense about filenames
 Lightning talk for <https://normconf.com> 2022-12-15  
 by Jenny Bryan  
 Twitter: [@jennyBryan](https://twitter.com/JennyBryan)  
-Mastodon: [@jennyBryan](https://fosstodon.org/@jennybryan)  
+Mastodon: [@jennybryan](https://fosstodon.org/@jennybryan)  
 GitHub: [@jennybc](https://github.com/jennybc)  
 
 ## Link to this repo
