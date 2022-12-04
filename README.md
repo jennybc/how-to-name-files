@@ -6,8 +6,6 @@ Low-tech common sense about filenames. The holy trinity is:
 * human readable
 * plays well with default ordering
 
-More at <https://pos.it/how-to-name-files>
-
 Lightning talk for <https://normconf.com> 2022-12-15  
 by Jenny Bryan  
 Twitter: [@jennyBryan](https://twitter.com/JennyBryan)  
