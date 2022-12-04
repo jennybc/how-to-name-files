@@ -14,27 +14,27 @@ GitHub: [@jennybc](https://github.com/jennybc)
 
 ## Slides
 
-<a href="https://speakerdeck.com/jennybc/how-to-name-files-2"><img src="how-to-name-files-title-600.jpg"></a>
+<a href="https://speakerdeck.com/jennybc/how-to-name-files-the-sequel"><img src="images/how-to-name-files-title-600.jpeg"></a>
 
-Slides [on SpeakerDeck](https://speakerdeck.com/jennybc/how-to-name-files-2)
+Slides [on SpeakerDeck](https://speakerdeck.com/jennybc/how-to-name-files-the-sequel)
 
-Slides [as PDF file](how-to-name-files-jenny-bryan.pdf) here in this repo 
+Slides [as PDF file](how-to-name-files.pdf) here in this repo 
 
 ## Video
 
 These lightning talks were pre-recorded. Video is available here:
 
-*eventual YouTube link>
+*eventual YouTube link*
 
 ## Credits and resources
+
+*still a WIP*
 
 Material originated during a Reproducible Science Curriculum Workshop, held at NESCent in December 2014, under the auspices of the Reproducible Science Curriculum <https://github.com/Reproducible-Science-Curriculum>.
 
 The original slides were made for a workshop held at Duke University in May 2015 and were shared at <https://speakerdeck.com/jennybc/how-to-name-files>.
 
 Image credits
-
-*indicative placeholders for now*
 
 * Shoes on pavement: Jon Tyson <https://unsplash.com/photos/PXB7yEM5LVs>
 * Concrete background: Yan Ots <https://unsplash.com/photos/UuBR5kbvt4Y>
