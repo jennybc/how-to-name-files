@@ -36,5 +36,10 @@ Image credits
 
 *indicative placeholders for now*
 
-* Autopsy painting by Rembrandt: https://www.mauritshuis.nl/en/explore/the-collection/artworks/the-anatomy-lesson-of-dr-nicolaes-tulp-146/detailgegevens/ Public Domain, https://commons.wikimedia.org/w/index.php?curid=64281722  
-* Gray cube abstract wallpaper vector art https://unsplash.com/photos/1CVy8JStf3A  
+* Shoes on pavement: Jon Tyson <https://unsplash.com/photos/PXB7yEM5LVs>
+* Concrete background: Yan Ots <https://unsplash.com/photos/UuBR5kbvt4Y>
+* Moses and stone tablets: Levi Meir Clancy <https://unsplash.com/photos/c3fNWbbn0VA>
+* Arched ceiling: Bruce van Zyl <https://unsplash.com/photos/-MKR972ocbc>
+* Slug: Wolfgang Hansemann <https://unsplash.com/photos/dZ-qfkV30GA>
+* Stained paper: Annie Spratt <https://unsplash.com/photos/xvU-X0GV9-o>
+* Filing drawers: National Cancer Institute <https://unsplash.com/photos/89rul39ox2I>
