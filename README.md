@@ -1,6 +1,12 @@
 # How to name files
 
-Low-tech common sense about filenames
+Low-tech common sense about filenames. The holy trinity is:
+
+* machine readable
+* human readable
+* plays well with default ordering
+
+More at <https://pos.it/how-to-name-files>
 
 Lightning talk for <https://normconf.com> 2022-12-15  
 by Jenny Bryan  
@@ -24,7 +30,7 @@ Slides [as PDF file](how-to-name-files.pdf) here in this repo
 
 These lightning talks were pre-recorded. Video is available here:
 
-*eventual YouTube link*
+<https://youtu.be/ES1LTlnpLMk>
 
 ## Credits and resources
 
