@@ -30,6 +30,8 @@ These lightning talks were pre-recorded. Video is available here:
 
 <https://youtu.be/ES1LTlnpLMk>
 
+A lower-res, downloadable version is here in the repo: [how-to-name-files-480.mov](how-to-name-files-480.mov)
+
 ## Credits and resources
 
 Material originated during a Reproducible Science Curriculum Workshop, held at NESCent in December 2014, under the auspices of the Reproducible Science Curriculum <https://github.com/Reproducible-Science-Curriculum>.
